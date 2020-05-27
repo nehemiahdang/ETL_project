@@ -1,2 +1,2 @@
 # ETL_project
-My project is based around finding the amount the United States invested in the health department over the years and looking at it with outbreaks of virus or diseases to see how well each event was handled. To look at how well each event is handled or how well the response unit was, I’ll be looking at the number of cases and how the curve flats or not. This will be compared to the number of cases on the COVID-19 and their funding within the US.
+My project is based around finding the amount the United States invested in the health department over the years and looking at it with outbreaks of virus or diseases to see how well each event was handled. This will be compared to the number of cases on the COVID-19 and their funding within the US.
